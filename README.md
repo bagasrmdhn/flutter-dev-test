@@ -14,13 +14,13 @@ Ada beberapa kesulitan yang saya hadapi dalam mengerjakan aplikasi ini, yaitu :
 
 ## Screen Capture
 
-![User Page](./ss-01.JPG)
+![User Page](./ss-01.jpeg)
 
-![Issue Page](./ss-02.JPG)
+![Issue Page](./ss-02.jpeg)
 
-![Repo Page](./ss-03.JPG)
+![Repo Page](./ss-03.jpeg)
 
-![Repo Page](./ss-04.JPG)
+![Repo Page](./ss-04.jpeg)
 
 
 
