@@ -1,16 +1,26 @@
-# flutter_dev_test_sejutacita
+# Github App Flutter
 
-A new Flutter project.
+Github App ini merupakan aplikasi yang dibangun menggunakan flutter
 
-## Getting Started
+## 💡 Background
+Aplikasi Github App dibangun sebagai bentuk tes memasuki internship di SejutaCita
 
-This project is a starting point for a Flutter application.
+## 🤯 Challenges
+Ada beberapa kesulitan yang saya hadapi dalam mengerjakan aplikasi ini, yaitu :
+- Menggunakan BLoC State Management, saya perlu waktu untuk belajar BLoC terlebih dahulu sebelum mengerjakan tes ini.
+- kesulitan dalam mengimplementasikan lazy loading dan list with index nya, sehingga belum terselesaikan
+- sedikit kesulitan menggunakan radio button untuk pemilihan filter pencarian, sehingga saya modifikasi menggunakan TabBar
+- listview dengan sliver di dalam customScroll belum Nested dengan baik, sehingga memiliki 2 area scrollable(listview item dan bagian tabBar)
 
-A few resources to get you started if this is your first Flutter project:
+## Screen Capture
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![User Page](./ss-01.JPG)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Issue Page](./ss-02.JPG)
+
+![Repo Page](./ss-03.JPG)
+
+![Repo Page](./ss-04.JPG)
+
+
+
